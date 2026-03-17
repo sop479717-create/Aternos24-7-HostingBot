@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sady_plays.aternos.me:41320",
+    "ip": "sady_plays.aternos.me",
     "port": 41320,
-    "version": "",
+    "version": "1.21.11(127)",
     "try-creative": false
   },
   "position": {
